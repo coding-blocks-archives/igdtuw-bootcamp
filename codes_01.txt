@@ -1,0 +1,55 @@
+
+Sorting on Arrays, Vectors & Comparators
+---------------------------------------
+https://ide.codingblocks.com/s/366677
+https://ide.codingblocks.com/s/366678
+https://ide.codingblocks.com/s/366679
+https://ide.codingblocks.com/s/366682
+
+Smallest String concatentation
+https://ide.codingblocks.com/s/366702
+
+Searching Basics
+https://ide.codingblocks.com/s/366732
+
+Pair Sum
+https://ide.codingblocks.com/s/366776
+
+Triplet Sum (HW)
+https://ide.codingblocks.com/s/366811
+
+//--------------------------------------------------
+
+Problem - 1 (Medium)
+Given an array, you need find the smallest subarray to sort to make entire array sorted!
+
+arr[] = {1,2,3,4,5, 8,9,7,6, 11,12,13,14};
+output = [8,9,6,7] or give me the (start,end) pair
+
+Problem - 2 (Hard)
+Given an array, find the min swaps required to make the entire array sorted!
+input[] = 1 2 4 5 3
+output = 2 swaps
+
+
+Problem - 3 (Medium)
+Find the highest peak inside the array
+1 2 3 4 5 4 2 0 8 9 10 8
+
+//------------------------------------------------------
+Next Session : 7.00 PM to 9.00 PM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

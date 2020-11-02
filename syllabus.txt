@@ -1,0 +1,18 @@
+Lectures
+---------
+Arrays & Bitmasking 
+String Problems
+Sorting Problems, D&C
+Binary Search Problems
+Problem Solving using STL-I (Algorithms, Vectors, Stacks, Queues, Deque, List)
+Problem Solving using STL - II (Hash Tables, Maps & Sets, Priority Queues)
+Recursion Problems
+Backtracking/Brute Force Problems
+Number Theory 
+Greedy Problems
+Dynamic Programming - I
+Dynamic Programming - II
+Graph Problems - I 
+Graph Problems - II
+Problem Solving using Tries + String Matching
+ 
