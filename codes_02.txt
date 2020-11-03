@@ -1,0 +1,71 @@
+Smallest Array Sort
+-------------------
+https://ide.codingblocks.com/s/367385
+
+
+Min Swaps
+----------
+https://ide.codingblocks.com/s/367408
+
+Highest Peak
+-------------
+https://ide.codingblocks.com/s/367416
+
+
+2D Print in Spiral Form (HomeWork)
+-----------------------------------
+1 2 3 4
+5 6 7 8
+9 10 11 12
+13 14 15 16
+17 18 19 20 
+
+Cake Cutting Problem (HomeWork + already discussed)
+----------------------------------------------------
+2D Array which represents a cake of size M,N
+each element (x,y) of the array contains a whole number value = a[x][y] which represent the no of fruits present at that location in the array
+
+Your task is to cut the cake for 4 friends by makings 2 cuts (one horizontal cut & vertical cut), each friend will get 1 part, fruits in each part will be sum of all fruits in that part
+
+your 3 friends  will take the parts with maximum fruits and you will get the minimum.
+
+Your task is to maximize your minimum fruits you will get.
+
+
+Celebrity Game
+---------------
+
+In a hall containing N people (strangers), and there is 1 celebrity also.
+Celebrity knows No-one.
+Everyone knows celebrity.
+You are a stranger entering the hall and you want to find the celebrity. You can ask a question "do you know him / her" to anyone in the hall.
+A----> B
+may reply as Yes or No.
+
+Minimum questions required to find the celebrity.
+
+
+Rectangle Counting Problem
+---------------------------
+https://ide.codingblocks.com/s/367457
+
+
+Triangle Counting Problem (Homework)
+-------------------------------------
+N Cartesian Points,
+Axis Parallel Right Angled Triangles that can be formed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
