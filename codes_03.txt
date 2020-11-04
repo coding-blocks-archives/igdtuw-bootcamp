@@ -1,0 +1,75 @@
+Quicksort
+https://ide.codingblocks.com/s/367892
+
+-----------------------------------------
+K-th Smallest Element in the array
+arr[] = {1,5,3,0,2} 
+k = 3
+
+output - > 2
+https://ide.codingblocks.com/s/367902
+
+----------------------------------------
+Functional Object in C++ / Functor
+https://ide.codingblocks.com/s/367907
+
+
+--------------------------------------
+Generate Brackets : 
+Generate all valid Paranthesis that contain N pairs of ()
+
+https://ide.codingblocks.com/s/367919
+
+Stack
+------
+
+https://ide.codingblocks.com/s/367918
+
+----------------------------
+Balanced Paranthesis Check
+(a + [b+c]) Valid
+(a + {b+d)) Invalid
+(a + {b+d})) Invalid
+
+----------------------------
+Redudant Paranthesis Check (amazon)
+
+((a+b)+c)  No
+(((a+b)+c))  Yes
+
+---------------------------------
+
+Queue STL : FIFO (First In First Out)
+https://ide.codingblocks.com/s/367923
+
+
+---------------------------------------
+Merge K Sorted Arrays into a Single Array
+
+a1 = [10,14,20,80]
+https://ide.codingblocks.com/s/367943
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
