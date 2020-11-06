@@ -1,0 +1,21 @@
+
+Hashing Problems
+----------------
+Hashtable -> 1) Unordered Map [Hashtable with Separate Chaining]
+				 O(1) for Ins, Del, Search
+             2) Map [Balanced BST type of DS]
+             	O(LogN) for Ins, Del, Search
+
+https://ide.codingblocks.com/s/368569
+(replace map with unordered_map rest everything is same)
+
+
+Ransom Note
+----------------
+https://ide.codingblocks.com/s/368579
+
+
+
+
+
+
